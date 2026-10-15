@@ -1,0 +1,30 @@
+{
+  "title": "Baby Shower Theme",
+  "slug": "baby-shower-theme",
+  "category": "naming-ceremony",
+  "price": 5599,
+  "strikePrice": 6799,
+  "summary": "Baby Shower Theme with balloons, baby boxes and 2 LED lights.",
+  "images": [
+    "/images/baby-shower-theme.webp"
+  ],
+  "imageAlt": "Baby Shower Theme with balloons, baby boxes, Artificial Leaves & Flowers and 2 LED lights.",
+  "inclusions": [
+    "6×6 Ring Backdrop with Balloons in Pink Chrome, Sky Blue & Pink",
+    "Personalized Flex",
+    "Cake Table",
+    "Baby Boxes",
+    "Artificial Leaves & Flowers",
+    "2 LED Lights for Backdrop"
+  ],
+  "venues": [
+    "terrace",
+    "home"
+  ],
+  "palette": [
+    "pastel"
+  ],
+  "setupHours": 2,
+  "featured": false,
+  "published": true
+}

@@ -1,0 +1,53 @@
+{
+  "note": "Replace with the areas P5 Events actually covers in Hyderabad.",
+  "areas": [
+    {
+      "name": "Gachibowli",
+      "slug": "gachibowli"
+    },
+    {
+      "name": "Madhapur",
+      "slug": "madhapur"
+    },
+    {
+      "name": "Kondapur",
+      "slug": "kondapur"
+    },
+    {
+      "name": "Hitech City",
+      "slug": "hitech-city"
+    },
+    {
+      "name": "Kukatpally",
+      "slug": "kukatpally"
+    },
+    {
+      "name": "Miyapur",
+      "slug": "miyapur"
+    },
+    {
+      "name": "Banjara Hills",
+      "slug": "banjara-hills"
+    },
+    {
+      "name": "Jubilee Hills",
+      "slug": "jubilee-hills"
+    },
+    {
+      "name": "Secunderabad",
+      "slug": "secunderabad"
+    },
+    {
+      "name": "Manikonda",
+      "slug": "manikonda"
+    },
+    {
+      "name": "Narsingi",
+      "slug": "narsingi"
+    },
+    {
+      "name": "Uppal",
+      "slug": "uppal"
+    }
+  ]
+}
